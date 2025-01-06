@@ -1,4 +1,4 @@
-WORKING WITH CHARACTER STRINGS Session 4
+#WORKING WITH CHARACTER STRINGS Session 4, Feb 2023
 
 neanderthal_name_COX2 <- "Homo neanderthalensis[Organism] AND COX2[Gene]"
 
