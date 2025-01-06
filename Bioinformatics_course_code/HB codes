@@ -1,3 +1,4 @@
+#Learning how to deal with R, and connecting your data to desired Hb code
 setwd("~/Desktop/Courses/Spring 2023/Bioinformatics/HB_Project")
 
 HB_path <- "~/Desktop/Courses/Spring 2023/Bioinformatics/HB_Project"
